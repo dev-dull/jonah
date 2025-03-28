@@ -1,5 +1,7 @@
 <p align="center">
-  <img src=".images/512px-Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_ProjectFXD.jpg" alt="Jonah and the Whale">
+  <a href="https://commons.wikimedia.org/wiki/File:Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_ProjectFXD.jpg" target="_blank">
+    <img src=".images/512px-Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_ProjectFXD.jpg" alt="Jonah and the Whale">
+  </a>
 </p>
 
 ## About `jonah`
